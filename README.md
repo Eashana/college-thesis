@@ -18,11 +18,9 @@ The project investigates how Large Language Models (LLMs) can dynamically adapt 
 
 | Role | Name / Institution |
 |---|---|
-| **Researcher** | Eashana (MSc/PhD Candidate) |
+| **Researcher** | Eashana (MSc Candidate) |
 | **University** | Maynooth University — ARGUS Research & Innovation |
 | **Supervisor** | Majid Sorouri |
-| **Collaborating Institution** | Universität Leipzig |
-| **Industry Partner** | MechWorks.io |
 
 ---
 
